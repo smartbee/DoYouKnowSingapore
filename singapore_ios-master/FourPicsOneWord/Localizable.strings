@@ -1,0 +1,34 @@
+/* 
+  Localizable.strings
+  FourPicsOneWord
+
+  Created by  on 10/14/13.
+  Copyright (c) 2013 Vojtec. All rights reserved.
+*/
+
+"AppName" = "4 Pics 1 Word";
+"StartPlay" = "Play Level %d";
+"RePlay" = "Replay Level %d";
+"Unlock" = "Unlock Level %d";
+"EarnCoins" = "Earn Coins";
+"Congrats" = "Awesome!";
+"Right" = "You've guessed the word.";
+"Continue" = "CONTINUE";
+"ShowInfo" = "Show a correct letter (60 coins)";
+"DeleteInfo" = "Delete all letters which are not part of the solution (80 coins)";
+"CancelBuy" = "Cancel";
+"Not enough coins" = "Not enough coins";
+"Not enough coins details" = "You need %@ coins to do this";
+"FBhelp" = "Can you help me? What word is described by these pictures?";
+"MoreGames" = "More Games";
+"HideAds" = "Hide Ads";
+"UpgradePremium" = "Upgrade to Premium";
+"Upgrade" = "UPGRADE (US $ 1.99)";
+"BonusChallenge" = "Bonus Challenge";
+"hintsPush" = "Free Hints Notifications";
+"bonusPush" = "Bonus Challenge Notifications";
+"sounds" = "Sounds";
+"UnlockTitle" = "Unlock Level";
+"UnlockMessage" = "Do you want to unlock this level for 4000 coins?";
+"Yes" = "Yes";
+"No" = "No";
